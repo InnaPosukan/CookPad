@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CookPad.Form1">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAAAAAACCAAACAAAYAAAAAGQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookPad.Form3">
+    <Position X="7.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAASAAABCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookPad.Mainform">
+    <Position X="10" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>8SCAAAEAISAAADeaEACAQAhDYMw7QBCA0PAHADJRBoI=</HashCode>
+      <FileName>Mainform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookPad.Program">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,15 @@
+C:\Users\Simfo\source\repos\CookPad\CookPad\bin\Debug\CookPad.exe.config
+C:\Users\Simfo\source\repos\CookPad\CookPad\bin\Debug\CookPad.exe
+C:\Users\Simfo\source\repos\CookPad\CookPad\bin\Debug\CookPad.pdb
+C:\Users\Simfo\source\repos\CookPad\CookPad\obj\Debug\CookPad.csproj.AssemblyReference.cache
+C:\Users\Simfo\source\repos\CookPad\CookPad\obj\Debug\CookPad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simfo\source\repos\CookPad\CookPad\obj\Debug\CookPad.Form1.resources
+C:\Users\Simfo\source\repos\CookPad\CookPad\obj\Debug\CookPad.Properties.Resources.resources
+C:\Users\Simfo\source\repos\CookPad\CookPad\obj\Debug\CookPad.csproj.GenerateResource.cache
+C:\Users\Simfo\source\repos\CookPad\CookPad\obj\Debug\CookPad.csproj.CoreCompileInputs.cache
+C:\Users\Simfo\source\repos\CookPad\CookPad\obj\Debug\CookPad.exe
+C:\Users\Simfo\source\repos\CookPad\CookPad\obj\Debug\CookPad.pdb
+C:\Users\Simfo\source\repos\CookPad\CookPad\bin\Debug\Database.mdf
+C:\Users\Simfo\source\repos\CookPad\CookPad\bin\Debug\Database_log.ldf
+C:\Users\Simfo\source\repos\CookPad\CookPad\obj\Debug\CookPad.Mainform.resources
+C:\Users\Simfo\source\repos\CookPad\CookPad\obj\Debug\CookPad.Form3.resources
